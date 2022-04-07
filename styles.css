@@ -1,4 +1,41 @@
-.profile {
+/* .profile {
     height: 100px;
     width: auto;
+} */
+
+* {
+    background-image: url(src/fernando-hernandez-vSI8ASKyMJ8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0, 0;
+}
+
+header {
+    background-color: black;
+    padding-top: 24px;
+}
+
+h1 {
+    margin: 0, 0;
+    color: blue;
+}
+
+img {
+    width: 100px;
+}
+
+ul.top-nav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    padding-left: 0;
+    text-align: center;
+}
+
+ul.top-nav li {}
+
+ul.top-nav li {
+    /* display: ; */
 }
